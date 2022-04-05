@@ -6,9 +6,11 @@ A brief description of what this project does and who it's for
 
 ## Table of Content
 
-- Home
-  -  Second item 
-  - Third item  
+- Table of Contents (Dart)
+  - First item
+  - Second item 
+  - Third item
+  - Fourth item  
 - Fourth item
 
 ## Lessons Learned

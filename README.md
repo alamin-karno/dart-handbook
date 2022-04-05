@@ -6,11 +6,7 @@ A brief description of what this project does and who it's for
 
 ## Table of Content
 
-- First item
-- Second item
-- Third item
-    - Indented item
-    - Indented item
+- Home
 - Fourth item
 
 ## Lessons Learned

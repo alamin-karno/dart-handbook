@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 ## Table of Content
 
-- Table of Contents
+- Table of Contents (Dart)
   - First item
   - Second item 
   - Third item

@@ -17,7 +17,7 @@ A brief description of what this project does and who it's for
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
-## FAQ
+### FAQ
 
 ### Question 1
 

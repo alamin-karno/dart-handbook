@@ -1,6 +1,8 @@
 
 # Dart HandBook
 
+[![English](https://img.shields.io/badge/Language-English-green?style=for-the-badge)](README.md) &emsp; &emsp; [![English](https://img.shields.io/badge/Language-Bengla-red?style=for-the-badge)](README.bd.md)
+
 A brief description of what this project does and who it's for
 
 ## Table of Content
